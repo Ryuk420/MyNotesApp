@@ -1,6 +1,6 @@
 # React Notes App
 
-![React Logo]<img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width=100 height=100>
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width=100 height=100>
 
 ## Table of Contents
 - [Introduction](#introduction)
